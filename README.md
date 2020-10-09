@@ -1,4 +1,4 @@
-# Machine-Learning exercise
+# Machine-Learning exercises
 
 ## Problema 1:
 
