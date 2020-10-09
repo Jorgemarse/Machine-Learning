@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning exercise
 
 Model creating to predict the vehicle consumption from the following variables: 
 - Cylinders
